@@ -2,7 +2,7 @@
 
 ## Overview
 
-In 2025, healthcare providers face increasing challenges in managing **prior authorizations**, a crucial process for ensuring treatments and procedures are approved by insurance providers. With growing complexities, delays, and administrative burdens, **outsourcing prior authorization services** has emerged as a strategic solution to optimize operations and enhance patient satisfaction.
+In 2025, healthcare providers face increasing challenges in managing **prior authorizations**( https://www.imagnumhealthcare.com/services/prior-authorization ), a crucial process for ensuring treatments and procedures are approved by insurance providers. With growing complexities, delays, and administrative burdens, **outsourcing prior authorization services** has emerged as a strategic solution to optimize operations and enhance patient satisfaction.
 
 This repository highlights the key benefits of outsourcing prior authorizations and explains how **iMagnum Healthcare Solutions** can help healthcare providers achieve better outcomes.
 
@@ -64,7 +64,7 @@ For inquiries or to schedule a consultation, please contact us:
 
 This repository provides valuable resources and insights for healthcare providers to:
 
-- Understand the benefits of **prior authorization outsourcing**.
+- Understand the benefits of **prior authorization outsourcing**( https://www.imagnumhealthcare.com/services/prior-authorization ).
 - Explore how outsourcing can enhance efficiency and patient care.
 - Share information with industry professionals to optimize processes.
 
